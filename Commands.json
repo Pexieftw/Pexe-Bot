@@ -1,0 +1,26 @@
+{
+    "Utility" : {
+        "help [h]" : "Shows this message",
+        "prefix [pre]" : "Shows the current prefix in this server",
+        "Set_prefix [setprefix, setp, set_p, sp]" : "Sets the prefix used for your bot"
+    },
+    "Music" : {
+        "loop [l]" : "Loops the current track",
+        "pause [stop]" : "Pauses or unpauses the current track",
+        "skip [s, next, n]" : "Skips into the next track",
+        "queue [q, playlist, pl]" : "Shows the current playlist",
+        "shuffle [sh]" : "Shuffles the current playlist",
+        "play [song, p]" : "Plays a video from youtube",
+        "leave [le]" : "Leaves the voice channel",
+        "clear [clearqueue, cq]" : "Clears the current queue",
+        "set_volume [volume, vol, setv, sv]" : "Sets the volume of the music [between 0 and 1]"
+    },
+    "Text To Speech" : {
+        "voice [v]" : "Plays the text you typed if you're currently in a voice channel",
+        "set_language [setlanguage, setl, set_l, sl]" : "Sets the language used in tts commands",
+        "languages_list [llist, ll]" : "Show a list of all the available languages for tts commands"
+    },
+    "Osu" : {
+        "osu [op, profile]" : "Shows your osu! profile"
+    }
+}

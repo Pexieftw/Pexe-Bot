@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+tts/*
+!tts/.gitkeep
+gttstry.py
+init_settings.py
+testing.py
+user.json
+user2.json
+user3.json
+score.json
+video.json
